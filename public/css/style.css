@@ -5,13 +5,21 @@ header, .project:not(:last-child) {
 
 #farm-main {
   background: rgb(255, 255, 255, 0.6);
-  padding: 1%;  
+  padding: 1%;
+  margin-bottom: 2%;
+  border-radius: 25px;
 }
 
 #farm-pic {
   background-image: url(../images/farm2.jpg);
+  border-radius: 25px;
   background-size: 100%;
   background-position: center center fixed;
+  padding-bottom: 20%;
+}
+
+.text-center {
+  padding-bottom: 25%;
 }
 
 #project-cow {
@@ -53,6 +61,8 @@ header, .project:not(:last-child) {
 
 #headerBlack {
   background-color: black;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
 }
 
 #logout, #login, #profile {
