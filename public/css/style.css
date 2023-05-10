@@ -2,18 +2,28 @@ header, .project:not(:last-child) {
   border-bottom: 1px solid #ccc;
 }
 
+
 #farm-main {
   background: rgb(255, 255, 255, 0.6);
-  padding: 1%;
-  
+  padding: 1%;  
 }
 
 #farm-pic {
   background-image: url(../images/farm2.jpg);
   background-size: 100%;
-  background-position: center;
+  background-position: center center fixed;
 }
 
+#project-cow {
+  background-image: url(../images/cow1.jpg);
+  background-size: 160%;
+  padding-top: .5%;
+  padding-bottom: 22%;
+  background-repeat: no-repeat;
+  color: rgb(128, 108, 108);
+
+
+}
 
 .no-button {
   background: none;
@@ -50,12 +60,3 @@ header, .project:not(:last-child) {
 }
 
 
-
-@font-face {
-  font-family: 'cgphenixamericanregular';
-  src: url('gotmilk-font-webfont.woff2') format('woff2'),
-       url('gotmilk-font-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-
-}
