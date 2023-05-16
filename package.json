@@ -12,7 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@polymer/paper-slider": "^3.0.1",
     "bcrypt": "^5.0.0",
+    "bulma-slider": "^2.0.5",
     "connect-session-sequelize": "^7.0.4",
     "dotenv": "^8.6.0",
     "express": "^4.17.1",

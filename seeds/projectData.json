@@ -1,14 +1,17 @@
 [
   {
     "name": "Half Marathon Training",
-    "description": "Today I ran 5 miles for the first time without stopping! My average mile time was 12:35!"
+    "description": "Today I ran 5 miles for the first time without stopping! My average mile time was 12:35!",
+    "intensity": "1"
   },
   {
     "name": "Chest Day with new bench max",
-    "description": "Bench Press: 315 lbs! New max."
+    "description": "Bench Press: 315 lbs! New max.",
+    "intensity": "2"
   },
   {
     "name": "Hot Yoga day",
-    "description": "Today I tried my first ever Hot Yoga class, it was hard but worth it!"
+    "description": "Today I tried my first ever Hot Yoga class, it was hard but worth it!",
+    "intensity": "3"
   }
 ]
